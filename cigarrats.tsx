@@ -129,7 +129,7 @@ export default function CigarRatsApp() {
           <div className="flex items-center gap-3">
             <div className="w-11 h-11 rounded-full bg-white overflow-hidden flex items-center justify-center border border-gray-700">
                <img 
-                 src="https://i.ibb.co/0jdCKxWj/Screenshot-1-removebg-preview.png" 
+                 src="https://i.imgur.com/BmJeg6i.png" 
                  alt="Logo do CigarRats" 
                  className="w-full h-full object-contain p-1" 
                  onError={(e) => {
